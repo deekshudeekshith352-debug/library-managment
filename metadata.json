@@ -1,0 +1,6 @@
+{
+  "name": "Student Library Management System",
+  "description": "Full-stack Student Library Management System with PostgreSQL (Aiven SSL) integration, student borrowing records, book availability tracking, and return status workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
